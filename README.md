@@ -10,7 +10,7 @@
   - PD16-Cm#.wav
   - PD16-60Cm#.wav (60bpm)
   - PD16+60Cm#.wav (160bpm)
-  - SH2+22.wav
+  - SH2+22.wav (122bpm)
   - HH1.wav
 
 Set SOURCE_PATH and DEST_PATH below, then run: python3 main.py
