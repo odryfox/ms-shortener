@@ -8,7 +8,8 @@
   - KK1.wav
   - KK12.wav
   - PD16-Cm#.wav
-  - PD16+60Cm#.wav
+  - PD16-60Cm#.wav (60bpm)
+  - PD16+60Cm#.wav (160bpm)
   - SH2+22.wav
   - HH1.wav
 
