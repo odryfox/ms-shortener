@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-ms_renamer.py — Sample pack renamer with copy-first safety.
+Sample name shortener for Elektron Model:Samples.
 
 Step 0: recursively copy SOURCE_PATH → DEST_PATH (original untouched).
 Step 1: detect & strip library prefix from all folder/file names.
@@ -23,8 +23,8 @@ from pathlib import Path
 # CONFIGURATION
 # ============================================================
 
-SOURCE_PATH = "/Users/v.rusov/Desktop/samples/Splice Sounds - Spinnin' Sounds Tech House Sample Pack"
-DEST_PATH   = "/Users/v.rusov/Desktop/samples_out/Tech House Spinnin"
+SOURCE_PATH = "/Users/odryfox/Desktop/samples/Splice Sounds - Spinnin' Sounds Tech House Sample Pack"
+DEST_PATH   = "/Users/odryfox/Desktop/samples_out/Tech House Spinnin"
 
 # Leave empty for auto-detection.
 LIBRARY_NAME = ""
